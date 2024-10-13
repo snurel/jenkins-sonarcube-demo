@@ -1,1 +1,1 @@
-print("Updatedd Hello from repo!")
+print("Updated Automated Hello from repo!")
