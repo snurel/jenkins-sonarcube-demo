@@ -1,4 +1,4 @@
-pipeline {
+opipeline {
     agent { 
         node {
             label 'docker-agent-python'
@@ -25,7 +25,7 @@ pipeline {
                 sh '''
                 cd myapp
                 source venv/bin/activate
-                python3 sayhello.py
+                python3 hello.py
                 '''
             }
         }
