@@ -1,3 +1,3 @@
 # jenkins-sonarcube-demo
 
-## html files updated
+## SCM pipeline
