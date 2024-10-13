@@ -1,4 +1,4 @@
-opipeline {
+pipeline {
     agent { 
         node {
             label 'docker-agent-python'
